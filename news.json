@@ -1,0 +1,173 @@
+[{
+    "title": "Dylan O’Brien Reflects on Frozen 2 Audition",
+    "date": "2024-09-21",
+    "source": "Late Night With Seth Meyers",
+    "actor": {
+      "name": "Dylan O’Brien",
+      "knownFor": ["Teen Wolf", "The Maze Runner"],
+      "auditionDetails": {
+        "film": "Frozen 2",
+        "year": 2019,
+        "initialExpectations": "Didn’t go in with high hopes",
+        "character": "Not disclosed",
+        "singingAbility": "Can’t sing",
+        "auditionExperience": {
+          "specifics": {
+            "painfulMoment": "Casting director asked if he could get to the chorus",
+            "performance": "Swimming in the first verse",
+            "feedback": [
+              "Two 'okays'",
+              "Need a stronger singer"
+            ]
+          },
+          "overallSentiment": "Remembers it fondly"
+        }
+      }
+    },
+    "quote": [
+      "I knew. She knew. It’s okay.",
+      "Thanks for having me.",
+      "It’s made me comfortable, actually. I’m serious!"
+    ]
+},
+{
+    "box_office": {
+      "title": "Transformers One",
+      "production_companies": ["Paramount", "Hasbro"],
+      "genre": "Animated",
+      "rating": "PG",
+      "expected_opening": {
+        "low": 30000000,
+        "high": 35000000
+      },
+      "current_projection": 26000000,
+      "competition": {
+        "title": "Beetlejuice Beetlejuice",
+        "studio": "Warner Bros.",
+        "weekend": "third",
+        "estimated_difference": {
+          "min": 500000,
+          "max": 1000000
+        }
+      },
+      "reception": {
+        "reviews": "glowing",
+        "awards_buzz": true,
+        "cinema_score": "A",
+        "exit_polls": "stellar"
+      },
+      "context": {
+        "risk": "returning to franchise roots with CGI animation and family-friendly rating instead of PG-13 live-action"
+      }
+    }
+  },
+  {
+    "filmmaker": {
+      "name": "Alexandre Aja",
+      "since": 2019,
+      "films": [
+        {
+          "title": "Crawl",
+          "year": 2019,
+          "acclaim": {
+            "boxOfficeGross": 91000000,
+            "critics": {
+              "notableComment": {
+                "author": "Quentin Tarantino",
+                "quote": "Crawl was his favorite film of the year"
+              }
+            }
+          }
+        },
+        {
+          "title": "Oxygen",
+          "year": 2021
+        },
+        {
+          "title": "Never Let Go",
+          "year": 2024,
+          "details": {
+            "leadActor": "Halle Berry",
+            "character": "Momma",
+            "genre": "survival horror-thriller",
+            "setting": "remote cabin",
+            "plot": "single mother cares for her fraternal twin boys in a post-apocalyptic world",
+            "casting": {
+              "importance": "pivotal for the movie's success",
+              "youngActors": [
+                {
+                  "name": "Percy Daggs IV",
+                  "character": "Nolan"
+                },
+                {
+                  "name": "Anthony B. Jenkins",
+                  "character": "Samuel"
+                }
+              ],
+              "castingDirector": "Rich Delia"
+            }
+          },
+          "production": {
+            "HalleBerryRole": {
+              "performance": "compelling",
+              "contribution": "producer"
+            }
+          }
+        }
+      ],
+      "reflection": {
+        "quote": "It was such a nice surprise.",
+        "friend": "Eli Roth",
+        "message": "Quentin watched [Crawl] and really loved it."
+      }
+    }
+  },{
+    "title": "Child Star",
+    "platform": "Hulu",
+    "director": "Demi Lovato",
+    "co_director": "Nicola Marsh",
+    "producers": [
+      "Michael D. Ratner",
+      "Scott Ratner",
+      "Miranda Sherman",
+      "Kfir Goldberg"
+    ],
+    "premiere_date": "Tuesday",
+    "subject": "Impact of Fame on Child Actors",
+    "interviewed_actors": [
+      "Drew Barrymore",
+      "Christina Ricci",
+      "Kenan Thompson",
+      "JoJo Siwa",
+      "Alyson Stoner",
+      "Raven-Symoné"
+    ],
+    "main_question": "Is the price of fame worth your childhood?",
+    "themes": [
+      "Highs and Lows of Fame",
+      "Child Stardom",
+      "Mental Health and Self-Worth",
+      "Need for External Validation"
+    ],
+    "context": [
+      {
+        "related_documentary": "Quiet on Set: The Dark Side of Kids TV",
+        "focus": "Toxic Environments in Child Entertainment"
+      }
+    ],
+    "notable_quotes": [
+      {
+        "actor": "Demi Lovato",
+        "quote": "I looked at my success as my self-worth. I had a really hard time differentiating the two, and I dealt with a lot of need for external validation."
+      }
+    ],
+    "background": {
+      "Lovato_start": "Barney & Friends",
+      "breakthrough": {
+        "film": "Camp Rock",
+        "show": "Sonny With a Chance"
+      }
+    }
+  }  
+]
+  

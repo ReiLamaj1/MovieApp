@@ -1,9 +1,11 @@
 import { Component } from '@angular/core';
-
+import {NgOptimizedImage} from "@angular/common";
 @Component({
   selector: 'app-navigation-bar',
   standalone: true,
-  imports: [],
+  imports: [
+    NgOptimizedImage
+  ],
   templateUrl: './navigation-bar.component.html',
   styleUrl: './navigation-bar.component.css'
 })
